@@ -1,0 +1,21 @@
+2015-03-26 Carsten Behling <carsten.behling@ridgerun.com>
+
+	* Initial version.
+	* AUTHORS: Initial version
+	* autogen.sh: Initial version.
+	* ChangeLog: Initial version.
+	* configure.ac: Initial version.
+	* COPYING: Initial version.
+	* INSTALL: Initial version.
+	* Makefile.am: Initial version.
+	* NEWS: Initial version.
+	* README: Initial version.
+	* src/aes.h: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/ciphers: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/ciphers.h: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/des.h: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/digests.c: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/digests.h: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/e_af_alg.c: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/e_af_alg.h: Imported as it was from git://git.carnivore.it/users/common/af_alg.git 1851bbb010c38878c83729be844f168192059189
+	* src/Makefile.am: Initial version.
