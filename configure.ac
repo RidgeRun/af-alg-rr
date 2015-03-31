@@ -47,7 +47,7 @@ PKG_CHECK_MODULES(OPENSSL, [
 ])
 
 # Set the plugindir where plugins should be installed (for src/Makefile.am)
-  plugindir="\$(libdir)/openssl-1.0.0"
+  plugindir="\$(libdir)/openssl-1.0.0/engines"
 AC_SUBST(plugindir)
 
 # Set proper LDFLAGS for plugins
